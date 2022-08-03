@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+#Application Screen Shot
+
+![alt text](https://github.com/sezersinanoglu/react-todoapp-withTailwindCss/blob/main/app_screen.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
