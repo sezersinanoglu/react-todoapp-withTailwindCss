@@ -5,7 +5,7 @@
 ![alt text](https://github.com/sezersinanoglu/react-todoapp-withTailwindCss/blob/main/app_screen.jpg)
 
 
-# After downloading the project by git clone, let's update the npm i package. Then write your own firebase information to firebase.js file for firebase integration.
+## After downloading the project by git clone, let's update the npm i package. Then write your own firebase information to firebase.js file for firebase integration.
 
 ## Available Scripts
 
