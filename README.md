@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+## React todo app is integrated with firebase. Also, tailwind css is used for the design.
 
 #Application Screen Shot
 
